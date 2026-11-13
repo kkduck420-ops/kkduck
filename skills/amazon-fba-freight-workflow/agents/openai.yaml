@@ -1,0 +1,4 @@
+interface:
+  display_name: "FBA发货与货代交接"
+  short_description: "通过紫鸟建立FBA单仓货件，制作发票箱标并核验追踪回传"
+  default_prompt: "使用 $amazon-fba-freight-workflow 按本批装箱资料建立FBA发货计划，核对仓库、费用、发票和追踪。"
