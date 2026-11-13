@@ -1,0 +1,14 @@
+# Local credentials and business evidence never belong in the skill package
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+local/
+evidence/
+outputs/
+*.log
